@@ -6,11 +6,11 @@ on:
       email:
         description: 'EMail'
         required: true
-        default: 'coderzakir44@gmail.com'
+        default: 'alphasuthamedia@gmail.com'
       username:
         description: 'Username'
         required: true
-        default: 'Coder Zakir'
+        default: 'alpha'
       commit:
         description: 'Commit'
         required: true
